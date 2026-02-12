@@ -1,0 +1,5 @@
+Project title : pre-mRNA splicing regulation in human cancers by snRNA modifications
+Project description : Investigating how loss of m6A methylation on the U6 snRNA in splicing effects 5 prime splice site changes in cancer related genes
+Project Keywords : Splicing, m6A, U6 snRNA, Cancer
+Project dates : 1:10:2025 - 30:9:2029
+
